@@ -1,4 +1,6 @@
 body {background-color:black;}
+body <div style="width:100%;max-width:300px;border-radius:10px;border:1px red solid;overflow:hidden"></div>
+<div style="background-color:white;padding:5px"></div>
 h1{color:green;}
 
 
